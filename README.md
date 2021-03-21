@@ -1,6 +1,7 @@
 # Resume (Curriculum)
 
-| <a href="#"><img alt="Francisco Dara" src="https://github.com/franciscodara.png" width="200px" heigth="200px" align="center" /></a>  |  | <h1>FRANCISCO DARA</h1> |
+<p align="center">
+  <a href="#"><img alt="Francisco Dara" src="https://github.com/franciscodara.png" width="200px" heigth="200px" /><h1>FRANCISCO DARA</h1></a>
 
 ## Sobre mim 
 
