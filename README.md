@@ -12,9 +12,9 @@ Depois de 16 anos atuando com publicidade política, em especial assessoria pol�
 Como Engenheiro de Software e agora pós-graduando em Data Science and Big Data Analytics, tenho me empenhado em absorver o que há de mais moderno em tecnologias de qualidade de softwares, paradigmas, linguagens de programação e gerenciamento de banco de dados para fins de Business Intelligence.
 
 <h2>FORMAÇÃO ACADÊMICA</h2> 
-#### - ESCOLARIDADE
-Bacharel
-Pós-Graduando Lato Sensu 
+<h3>ESCOLARIDADE</h3>
+* Bacharel
+* Pós-Graduando Lato Sensu 
 
 <h2>DADOS PESSOAIS</h2>
 
