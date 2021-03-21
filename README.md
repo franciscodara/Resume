@@ -13,8 +13,11 @@ Como Engenheiro de Software e agora pós-graduando em Data Science and Big Data 
 
 <h2>FORMAÇÃO ACADÊMICA</h2> 
 <h3>ESCOLARIDADE</h3>
-* Bacharel
-* Pós-Graduando Lato Sensu 
+
+ <ul>
+  <li>Bacharel</li>
+  <li>ós-Graduando Lato Sensu </li>
+</ul> 
 
 <h2>DADOS PESSOAIS</h2>
 
