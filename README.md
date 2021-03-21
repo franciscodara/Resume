@@ -22,7 +22,8 @@
   <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5561993877556&text=Ol%C3%A1%20Dara!%20Vim%20do%20seu%20GitHub." target="blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <a href="https://web.whatsapp.com/send?l=pt-BR&phone=5561993877556&text=Ol%C3%A1%20Dara!%20Vim%20do%20seu%20GitHub." target="blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WHATSAPP|WEB-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto: franciscodara@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>  
+</p>
+
 ___
 
 <h2>SOBRE MIM</h2>
