@@ -1,4 +1,4 @@
-<h1 align="center">Resume (Curriculum)</h1>
+<h1 align="center" font size="2">Resume (Curriculum)</h1>
   
 <a href="#">
   <img align="left" src="https://github.com/franciscodara.png" width=200 />
