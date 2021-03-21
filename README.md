@@ -1,7 +1,16 @@
 # Resume (Curriculum)
+  
+<a href="#">
+  <img align="left" src="https://github.com/franciscodara.png" width=200 />
+</a>
+## DADOS PESSOAIS
+**NOME:** Francisco Araujo Alves
 
-<p align="center">
-  <a href="#"><img alt="Francisco Dara" src="https://github.com/franciscodara.png" width="200px" heigth="200px" /><h1>FRANCISCO DARA</h1></a>
+**DATA DE NASCIMENTO:** 18/04/1983
+
+**E-MAIL:** [franciscodara@gmail.com](mailto:franciscodara@gmail.com)
+
+**TELEFONES:** (11) 94043-3821 | (61) 99387-7556
 
 <h2>SOBRE MIM</h2>
 
@@ -19,5 +28,5 @@ Como Engenheiro de Software e agora pós-graduando em Data Science and Big Data 
   <li>ós-Graduando Lato Sensu </li>
 </ul> 
 
-<h2>DADOS PESSOAIS</h2>
+## DADOS PESSOAIS
 
