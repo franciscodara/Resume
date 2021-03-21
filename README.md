@@ -1,5 +1,5 @@
 # Resume (Curriculum)
-| ![Francisco Dara](https://github.com/franciscodara.png)  |  # Francisco Dara  |
+| <a href="#"><img alt="Francisco Dara" src="https://github.com/franciscodara.png" width="200px" heigth="200px" /></a>  |  # Francisco Dara  |
 | ------------- | ------------- |
 | ## Sobre mim 
 |
