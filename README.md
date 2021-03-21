@@ -27,8 +27,24 @@ Como Engenheiro de Software e agora pós-graduando em Data Science and Big Data 
 
  <ul>
   <li>Bacharel</li>
-  <li>ós-Graduando Lato Sensu </li>
+  <li>Pós-Graduando Lato Sensu </li>
 </ul> 
 
-## DADOS PESSOAIS
+<h2>MINHAS FORMAÇÕES</h2> 
+
+ <ul>
+  <li>PÓS-GRADUAÇÃO</li>
+  
+  CURSO: DATA SCIENCE & BIG DATA ANALYTICS
+  INSTITUIÇÃO: FACULDADE METROPOLITANA
+  INÍCIO: 11/2020 TÉRMINO: 10/2021
+  
+  <li>BACHARELADO</li>
+  
+  CURSO: BACHARELADO EM ENGENHARIA DE SOFTWARE
+  INSTITUIÇÃO: CENTRO UNIVERSITÁRIO DE MARINGÁ
+  INÍCIO: 02/2017 TÉRMINO: 12/2020
+  
+</ul> 
+
 
