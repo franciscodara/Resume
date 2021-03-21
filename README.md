@@ -3,7 +3,9 @@
 <a href="#">
   <img align="left" src="https://github.com/franciscodara.png" width=200 />
 </a>
+
 ## DADOS PESSOAIS
+
 **NOME:** Francisco Araujo Alves
 
 **DATA DE NASCIMENTO:** 18/04/1983
