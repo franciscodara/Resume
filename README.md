@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size:2rem;">Resume (Curriculum)</h1>
   
 <a href="#">
-  <img align="left" src="https://github.com/franciscodara.png" width=200 />
+  <img align="left" src="https://raw.githubusercontent.com/franciscodara/images/main/foto3x4.png" width=200 />
 </a>
 
 ## DADOS PESSOAIS
