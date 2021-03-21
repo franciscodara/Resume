@@ -1,4 +1,4 @@
-<h1 style="color:red;font-size:40px" align="center">Resume (Curriculum)</h1>
+<h1 style="font-size:300%;">Resume (Curriculum)</h1>
   
 <a href="#">
   <img align="left" src="https://github.com/franciscodara.png" width=200 />
