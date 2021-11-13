@@ -28,7 +28,7 @@ ___
 
 <h2>SOBRE MIM</h2>
 
-Eu sou Engenheiro de Software e Data Science and Big Data Analytics student. Minha última experiência foi como Trainee em Engenharia de Software na ENFAM/STJ (Escola Nacional de Formação e Aperfeiçoamento de Magistrados) no Superior Tribunal de Justiça (STJ).
+Eu sou Engenheiro de Software e Data Science and Big Data Analytics student. Atualmente trabalho como Engenheiro de Big Data na Capgemini utilizando, entre outras ferramentas, principalmente o ecossistema Hadoop.
 
 Depois de 16 anos atuando com publicidade política, em especial assessoria política em Brasília, Goiás e Minas Gerais (Brasil). Tenho mais de 08 anos desenvolvendo Sistemas Web Full Stack (PHP, Javascript, HTML5, CSS3, etc.) como autônomo e Pessoa Jurídica, pude construir uma carreira sólida com uma carta de clientes envolvidos e parceiros que atestam minhas qualificações. Com passagens pelo GDF (Governo do Distrito Federal) e Assembléia Legislativa do Estado de Goiás, onde pude tecer uma networking confiável e adquirir experiência para os fins que me proponho.
 
