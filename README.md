@@ -1,5 +1,4 @@
 <h1 align="center" style="font-size:2rem;">Resume (Curriculum)</h1>
-<p align="center">To see in english [click here]()</p>
   
 <a href="#">
   <img align="left" src="https://raw.githubusercontent.com/franciscodara/images/main/foto3x4.png" width=200 />
