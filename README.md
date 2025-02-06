@@ -1,8 +1,4 @@
 <h1 align="center" style="font-size:2rem;">Resume (Curriculum)</h1>
-  
-<a href="#">
-  <img align="left" src="https://raw.githubusercontent.com/franciscodara/images/main/foto3x4.png" width=200 />
-</a>
 
 ## DADOS PESSOAIS
 
@@ -28,102 +24,84 @@ ___
 
 <h2>SOBRE MIM</h2>
 
-Eu sou Engenheiro de Software e Data Science and Big Data Analytics student. Atualmente trabalho como Engenheiro de Big Data na Capgemini utilizando, entre outras ferramentas, principalmente o ecossistema Hadoop.
+Sou Engenheiro de Software e Big Data, com pós-graduação em Data Science. Pai de dois, atuo ativamente na comunidade Linux e possuo +11 anos de experiência em desenvolvimento de sistemas e há 5 anos migrei para dados.
 
-Depois de 16 anos atuando com publicidade política, em especial assessoria política em Brasília, Goiás e Minas Gerais (Brasil). Tenho mais de 08 anos desenvolvendo Sistemas Web Full Stack (PHP, Javascript, HTML5, CSS3, etc.) como autônomo e Pessoa Jurídica, pude construir uma carreira sólida com uma carta de clientes envolvidos e parceiros que atestam minhas qualificações. Com passagens pelo GDF (Governo do Distrito Federal) e Assembléia Legislativa do Estado de Goiás, onde pude tecer uma networking confiável e adquirir experiência para os fins que me proponho.
-
-Como Engenheiro de Software e agora pós-graduando em Data Science and Big Data Analytics, tenho me empenhado em absorver o que há de mais moderno em tecnologias de qualidade de softwares, paradigmas, linguagens de programação e gerenciamento de banco de dados para fins de Business Intelligence.
+Minha trajetória inclui projetos para o governo e multinacionais, onde desenvolvi habilidades de liderança e comunicação. Acredito que essa combinação, aliada ao meu conhecimento técnico, me torna um profissional completo e capaz de entregar resultados excepcionais.
 
 <h2>FORMAÇÃO ACADÊMICA</h2> 
-<h3>ESCOLARIDADE</h3>
+PÓS-GRADUAÇÃO – CIÊNCIAS DE DADOS E ANÁLISE DE BIG DATA
+26/10/2020 – 24/05/2022 
 
- <ul>
-  <li>Bacharel</li>
-  <li>Pós-Graduando Lato Sensu </li>
-</ul> 
+Av. Pres. Kennedy, 1693, Nova Ribeirânia, Ribeirão Preto - SP,, Brasil
+FACULDADE METROPOLITANA DE SÃO PAULO
+https://faculdademetropolitana.edu.br/
 
-<h2>MINHAS FORMAÇÕES</h2> 
+BACHARELADO – ENGENHARIA DE SOFTWARE
+10/02/2017 – 14/12/2020 
 
- <ul>
-  
-  <li>PÓS-GRADUAÇÃO</li>
-  
-  **Curso:** Data science & big data analytics
-  
-  **Instituição:** Faculdade metropolitana
-  
-  **Início:** 11/2020	**Término:** 10/2021
-  
-  <li>BACHARELADO</li>
-  
-  **Curso:** Bacharelado em engenharia de software
-  
-  **Instituição:** Centro universitário de maringá
-  
-  **Início:** 02/2017	**Término:** 12/2020
-  
-  <li>SUPERIOR TECNÓLOGO</li>
-  
-  **Curso:** Tecnólogo em engenharia de telecomunicações
-  
-  **Instituição:** Faculdade Anhanguera
-  
-  **Início:** 02/2013	**Término:** 08/2015 (Trancado)
-  
-</ul>
+Av. Guedner, 1610, Jardim Aclimação, Maringá - PR, Brasil
+CESUMAR - CENTRO DE ENSINO SUPERIOR DE MARINGÁ
+https://www.unicesumar.edu.br/home/
+
+
 
 <h2>EXPERIÊNCIAS PROFISSIONAIS</h2> 
+<ul>
+<h3>2024 - ATUALMENTE – Blumenau-SC, Brasil</h3>
+  
+Engenheiro de Dados
+
+ACT CONSULTORIA EM TECNOLOGIA LTDA
+
+V.TAL REDE NEUTRA DE TELECOMUNICACOES - Engenheiro de dados com atuação em processos ETL com Bigquery usando Python e SQL..
+</ul>
+<ul>
+<h3>2023 - 2024 – Brasília, Brasil</h3>
+  
+Engenheiro de Dados
+
+STEFANINI CONSULTORIA E ASSESSORIA EM INFORMÁTICA S.A.
+
+VOLVO GROUP - Líder de dados no projeto Connect Insurance Volvo Financial Services. Arquitetura, Databricks, Azure Data Factory. COPEL - Equipa de dados responsável pela modelação, análise e criação de DDLs SQL para bases de dados Oracle com sintaxe PL/SQL.
+
+PORTO SEGURO - Análise e tratamento de dados com SQL para a equipe de marketing utilizando Big Query e Looker Studio entre outras ferramentas do GCP.
+</ul>
+<ul>
+<h3>2022 - 2023 – Brasília, Brasil</h3>
+  
+Engenheiro de Big Data
+
+GFT BRASIL CONSULTORIA INFORMATICA LTDA
+
+Compass BR - Time de dados com Azure Cloud, atuando no projeto do zero, desde a criação do desenho da arquitetura, escolha de ferramentas, implantação de ambientes até a análise dos dados e visualização com dashboards. SQL Server com T-SQL (Transact-SQL) e Power BI.
+</ul>
 
 <ul>
+<h3>2021 -2022 – Brasília, Brasil</h3>
+Engenheiro de Big Data
+CAPGEMINI DO BRASIL S.A
+Time de dados do Banco do Brasil trabalhando com Hadoop, Spark, HBase, Hive, Flume, Niﬁ, Pyspark e desenvolvimento em Python e Java.
+</ul>
 
-<li>STJ - SUPERIOR TRIBUNAL DE JUSTIÇA</li>
+<ul>
+<h3>2019 - 2020 – Brasília, Brasil</h3>
+Engenheiro de Dados
+SUPERIOR TRIBUNAL DE JUSTIÇA - STJ
+Responsável por normalizar diferentes fontes de dados como planilhas, formulários, MySQL e SQL Server em um mesmo servidor de dados em formato SQL Server para consulta e pré-processamento para análise. Início da construção do observatório de dados da ENFAM (Escola Nacional de Formação de Magistrados).
+</ul>
 
-**Comecei em:** 11/2019	
+<ul>
+<h3>2016 – 2017 – Águas Lindas de Goiás, Brasil</h3>
+Consultor de TIC/Consultora de TIC
+PREFEITURA ÁGUAS LINDAS DE GOIÁS
+Consultoria sobre otimização e utilização das ferramentas e sistemas existentes para implementação digital de serviços tradicionais do órgão, assim como o desenvolvimento e a implementação de projetos e soluções para a modernização digital da prefeitura.
+</ul>
 
-**Permaneci até:** 11/2020
-
-**Cargo:**	Desenvolvedor
-
-**Departamento:** Enfam (escola nacional de formação e aperfeiçoamento de magistrados)
-
-**Resumo profissional:** Responsável pela documentação do site https://educa.enfam.jus.br e levantamento de requisitos para criação do observatório enfam.
-
-<li>GDF - GOVERNO DO DISTRITO FEDERAL</li>
-
-**Comecei em:** 01/2014	
-
-**Permaneci até:** 12/2014
-
-**Cargo:** Chefe da ouvidoria
-
-**Departamento:** DFTrans
-
-**Resumo profissional:** Coordenação de equipe e atendimento ao turista estrangeiro.
-
-<li>PREFEITURA MUNICIPAL DE ÁGUAS LINDAS DE GOIÁS - GO</li>
-
-**Comecei em:** 01/2012		
-
-**Permaneci até:** 12/2015
-
-**Cargo:**	Assessor de comunicação
-
-**Departamento:** ASCOM
-
-**Resumo profissional:** Responsável pelos sistemas web, UX|UI Designer, artigos e publicidade.
-
-<li>ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS</li>
-
-**Comecei em:** 08/2010
-
-**Permaneci até:** 12/2011
-
-**Cargo:** Assessor parlamentar
-
-**Departamento:** Gabinete parlamentar
-
-**Resumo profissional:** Desenvolvimento e manutenção do sistemas web do parlamentar.
-
+<ul>
+<h3>2011 - 2015 – Goiânia, Brasil</h3>
+Consultor de TIC/Consultora de TIC
+ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS
+Consultoria sobre otimização e utilização das ferramentas e sistemas existentes para implementação digital de serviços tradicionais do GABINETE 10, assim como o desenvolvimento e a implementação do site particular do deputado. 
 </ul>
 
 <h2>CURSOS PROFISSIONALIZANTES</h2>
@@ -261,302 +239,100 @@ Fui publicitário por mais de 16 anos, em carreiras do setor político. Desde os
 ___
 
 <h1 align="center" style="font-size:2rem;">Resume (Curriculum)</h1>
-  
-<a href="#">
-   <img align="left" src="https://raw.githubusercontent.com/franciscodara/images/main/foto3x4.png" width=200 />
-</a>
 
 ## PERSONAL DATA
 
 **NAME:** Francisco Araujo Alves
 
-**DATE OF BIRTH:** 18/04/1983
+**DATE OF BIRTH:** 04/18/1983
 
 **E-MAIL:** [franciscodara@gmail.com](mailto:franciscodara@gmail.com)
 
-**PHONES:** (11) 94043-3821 | (61) 99387-7556
+**PHONES:** +55 (11) 94043-3821 | +55 (61) 99387-7556
+
+<p align="center">
+  <a href="https://linkedin.com/in/franciscodara" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@franciscodara" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/MEDIUM-333333.svg?&style=flat-square&logo=Medium&logoColor=white" /></a>
+  <a href="https://twitter.com/intent/follow?screen_name=franciscodara&tw_p=followbutton" target="_blank"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/franciscodara/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-bc2a8d.svg?&style=flat-square&logo=Instagram&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5561993877556&text=Ol%C3%A1%20Dara!%20Vim%20do%20seu%20GitHub." target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto: franciscodara@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+___
 
 <h2>ABOUT ME</h2>
 
-I am a Software Engineer and Data Science and Big Data Analytics student. I currently work as a Big Data Engineer at Capgemini using, among other tools, mainly the Hadoop ecosystem.
+I am a Software and Big Data Engineer, with a postgraduate degree in Data Science. A father of two, I am actively involved in the Linux community and have over 11 years of experience in system development. Five years ago, I transitioned to data engineering.
 
-After 16 years working with political advertising, in particular political advice in Brasília, Goiás and Minas Gerais (Brazil). I have more than 08 years developing Full Stack Web Systems (PHP, Javascript, HTML5, CSS3, etc.) as a freelancer and Legal Entity, I was able to build a solid career with a letter of involved clients and partners who attest to my qualifications. With passages at the GDF (Government of the Federal District) and the Legislative Assembly of the State of Goiás, where I could weave a reliable network and acquire experience for the purposes I propose.
+My career includes projects for both government and multinational companies, where I developed leadership and communication skills. I believe this combination, along with my technical expertise, makes me a well-rounded professional capable of delivering exceptional results.
 
-As a Software Engineer and now a postgraduate in Data Science and Big Data Analytics, I have been committed to absorbing the very latest in software quality technologies, paradigms, programming languages ​​and database management for Business purposes Intelligence.
+<h2>ACADEMIC BACKGROUND</h2>
+POSTGRADUATE – DATA SCIENCE AND BIG DATA ANALYSIS  
+10/26/2020 – 05/24/2022  
 
-<h2>ACADEMIC EDUCATION</h2>
-<h3>SCHOOLING</h3>
+Av. Pres. Kennedy, 1693, Nova Ribeirânia, Ribeirão Preto - SP, Brazil  
+METROPOLITAN COLLEGE OF SÃO PAULO  
+https://faculdademetropolitana.edu.br/
 
- <ul>
-  <li>Bachelor</li>
-  <li>Post-Graduate Lato Sensu</li>
-</ul>
+BACHELOR'S DEGREE – SOFTWARE ENGINEERING  
+02/10/2017 – 12/14/2020  
 
-<h2>MY TRAINING</h2>
+Av. Guedner, 1610, Jardim Aclimação, Maringá - PR, Brazil  
+CESUMAR - HIGHER EDUCATION CENTER OF MARINGÁ  
+https://www.unicesumar.edu.br/home/
 
- <ul>
-  
-  <li>GRADUATE DEGREE</li>
-  
-  **Course:** Data science & big data analytics
-  
-  **Institution:** Metropolitan College
-  
-  **Start:** 11/2020 **End:** 10/2021
-  
-  <li>BACHELOR</li>
-  
-  **Course:** Bachelor of Software Engineering
-  
-  **Institution:** Maringá University Center
-  
-  **Start:** 02/2017 **End:** 12/2020
-  
-  <li>SUPER TECHNOLOGIST</li>
-  
-  **Course:** Telecommunications engineering technologist
-  
-  **Institution:** Faculdade Anhanguera
-  
-  **Start:** 02/2013 **End:** 08/2015 (Locked)
-  
-</ul>
-
-<h2>PROFESSIONAL EXPERIENCES</h2>
-
+<h2>PROFESSIONAL EXPERIENCE</h2>
 <ul>
+<h3>2024 - PRESENT – Blumenau-SC, Brazil</h3>
 
-<li>STJ - SUPERIOR COURT OF JUSTICE</li>
+Data Engineer  
 
-**I started on:** 11/2019
+ACT CONSULTORIA EM TECNOLOGIA LTDA  
 
-**I stayed until:** 11/2020
-
-**Position:** Developer
-
-**Department:** Enfam (National School of Training and Improvement of Magistrates)
-
-**Professional summary:** Responsible for the documentation of the website https://educa.enfam.jus.br and requirements gathering for the creation of the enfam observatory.
-
-<li>GDF - GOVERNMENT OF THE FEDERAL DISTRICT</li>
-
-**I started on:** 01/2014
-
-**I stayed until:** 12/2014
-
-**Position:** Head of the ombudsman
-
-**Department:** DFTrans
-
-**Professional summary:** Team coordination and assistance to foreign tourists.
-
-<li>MUNICIPAL MUNICIPALITY OF ÁGUAS LINDAS DE GOIÁS - GO</li>
-
-**I started on:** 01/2012
-
-**I stayed until:** 12/2015
-
-**Position:** Communication Advisor
-
-**Department:** ASCOM
-
-**Professional summary:** Responsible for web systems, UX|UI Designer, articles and advertising.
-
-<li>LEGISLATIVE ASSEMBLY OF THE STATE OF GOIÁS</li>
-
-**I started on:** 08/2010
-
-**I stayed until:** 12/2011
-
-**Position:** Parliamentary advisor
-
-**Department:** Parliamentary office
-
-**Professional summary:** Development and maintenance of the parliamentarian's web systems.
-
+V.TAL NEUTRAL TELECOMMUNICATION NETWORK - Data engineer working on ETL processes with BigQuery using Python and SQL.
 </ul>
-
-<h2>ABOUT ME</h2>
-
-I am a Software Engineer and Data Science and Big Data Analytics student. I currently work as a Big Data Engineer at Capgemini using, among other tools, mainly the Hadoop ecosystem.
-
-After 16 years working with political advertising, in particular political advice in Brasília, Goiás and Minas Gerais (Brazil). I have more than 08 years developing Full Stack Web Systems (PHP, Javascript, HTML5, CSS3, etc.) as a freelancer and Legal Entity, I was able to build a solid career with a letter of involved clients and partners who attest to my qualifications. With passages at the GDF (Government of the Federal District) and the Legislative Assembly of the State of Goiás, where I could weave a reliable network and acquire experience for the purposes I propose.
-
-As a Software Engineer and now a postgraduate in Data Science and Big Data Analytics, I have been committed to absorbing the very latest in software quality technologies, paradigms, programming languages ​​and database management for Business purposes Intelligence.
-
-<h2>ACADEMIC EDUCATION</h2>
-<h3>SCHOOLING</h3>
-
- <ul>
-  <li>Bachelor</li>
-  <li>Post-Graduate Lato Sensu</li>
-</ul>
-
-<h2>MY TRAINING</h2>
-
- <ul>
-  
-  <li>GRADUATE DEGREE</li>
-  
-  **Course:** Data science & big data analytics
-  
-  **Institution:** Metropolitan College
-  
-  **Start:** 11/2020 **End:** 10/2021
-  
-  <li>BACHELOR</li>
-  
-  **Course:** Bachelor of Software Engineering
-  
-  **Institution:** Maringá University Center
-  
-  **Start:** 02/2017 **End:** 12/2020
-  
-  <li>SUPER TECHNOLOGIST</li>
-  
-  **Course:** Telecommunications engineering technologist
-  
-  **Institution:** Faculdade Anhanguera
-  
-  **Start:** 02/2013 **End:** 08/2015 (Locked)
-  
-</ul>
-
-<h2>PROFESSIONAL EXPERIENCES</h2>
-
 <ul>
+<h3>2023 - 2024 – Brasília, Brazil</h3>
 
-<li>STJ - SUPERIOR COURT OF JUSTICE</li>
+Data Engineer  
 
-**I started on:** 11/2019
+STEFANINI CONSULTORIA E ASSESSORIA EM INFORMÁTICA S.A.  
 
-**I stayed until:** 11/2020
+VOLVO GROUP - Data lead on the Connect Insurance Volvo Financial Services project. Architecture, Databricks, Azure Data Factory.  
+COPEL - Data team responsible for modeling, analysis, and creation of SQL DDLs for Oracle databases using PL/SQL syntax.  
 
-**Position:** Developer
-
-**Department:** Enfam (National School of Training and Improvement of Magistrates)
-
-**Professional summary:** Responsible for the documentation of the website https://educa.enfam.jus.br and requirements gathering for the creation of the enfam observatory.
-
-<li>GDF - GOVERNMENT OF THE FEDERAL DISTRICT</li>
-
-**I started on:** 01/2014
-
-**I stayed until:** 12/2014
-
-**Position:** Head of the ombudsman
-
-**Department:** DFTrans
-
-**Professional summary:** Team coordination and assistance to foreign tourists.
-
-<li>MUNICIPAL MUNICIPALITY OF ÁGUAS LINDAS DE GOIÁS - GO</li>
-
-**I started on:** 01/2012
-
-**I stayed until:** 12/2015
-
-**Position:** Communication Advisor
-
-**Department:** ASCOM
-
-**Professional summary:** Responsible for web systems, UX|UI Designer, articles and advertising.
-
-<li>LEGISLATIVE ASSEMBLY OF THE STATE OF GOIÁS</li>
-
-**I started on:** 08/2010
-
-**I stayed until:** 12/2011
-
-**Position:** Parliamentary advisor
-
-**Department:** Parliamentary office
-
-**Professional summary:** Development and maintenance of the parliamentarian's web systems.
-
+PORTO SEGURO - Data analysis and processing using SQL for the marketing team with BigQuery and Looker Studio, among other GCP tools.
 </ul>
 
-<h2>PROFESSIONALIZING COURSES</h2>
-
-<ul>
-
-<li>ARTIFICIAL INTELLIGENCE</li>
-
-**Institution:** Metropolitan College
-
-**Notes:** Introduction to artificial intelligence; turing tests; statistics for artificial intelligence; probability; conditional and iterative structures in python; functions and classes in python and more.
-
-**Start:** 10/2020 **End:** 01/2020
-
-<li>COMPLETE MODERN WEB DEVELOPMENT WITH JAVASCRIPT/li>
-  
-**Institution:** Cod3r online courses
-
-**Notes:** Web domain, 14 courses + projects, javascript, angular, react, vue, node, html, css, jquery, bootstrap webpack gulp mysql.
-
-Start: 04/2018 **End:** 08/2019
-
-<li>MICROSOFT POWER BI - BUSINESS INTELLIGENCE FOR BEGINNERS</li>
-
-**Institution:** Bizticscom king
-
-**Notes:** Business intelligence & data/business analysis with microsoft power bi.
-
-**Start:** 02/2019 **End:** 06/2019
-
-<li>DATA SCIENCE: VIEWING DATA WITH PYTHON</li>
-
-**Institution:** Diego Mariano, Ph.D.
-
-**Notes:** Data visualization using the python programming language and the pyplot library.
-
-Start: 06/2018 **End:** 07/2018
-
-<li>C++ COURSE - INTERMEDIATE</li>
-
-**Institution:** Marcos Castro - Udemy
-
-**Notes:** Programming in c++, use of advanced language resources and projects.
-
-**Start:** 08/2018 **End:** 10/2018
-
-<li>LINUX TERMINAL</li>
-
-**Institution:** Self-taught
-
-**Notes:** I am a co-founder member of the Deepin Brasil community, a Linux system and I have been active in the Linux world since 2013, including providing training.
-
-**Start:** 01/2013 **End:** 12/2013
-
-</ul>
+...
 
 <h2>LANGUAGES</h2>
 
 <ul>
-
 <li>ENGLISH</li>
 
 **Level:** Advanced reading, intermediate fluency
 
-<li>MANDARIN CHINESE (TRADITIONAL)</li>
+<li>CHINESE MANDARIN (TRADITIONAL)</li>
 
-**Beginner level
+**Level:** Beginner
 
 </ul>
 
-<h2>COMPLEMENTARY DATA</h2>
+<h2>ADDITIONAL INFORMATION</h2>
 
-Willingness to travel; availability to move (in unique opportunities); flexible salary requirements for individuals and companies; CLTor Legal Contract; time flexibility for face-to-face and remote.
+Available for travel; willing to relocate for unique opportunities; flexible salary expectations for both individual and corporate contracts; CLT or PJ contract; flexible hours for both on-site and remote work.
 
-<h2>AREA OF PRACTICE OF CONTRACTING COMPANIES</h2>
+<h2>SECTOR OF CONTRACTING COMPANIES</h2>
 
-Engineering, devops, projects, technology, research and development.
+Engineering, DevOps, projects, technology, research, and development.
 
-<h2>PERSONAL REMARKS</h2>
+<h2>PERSONAL NOTES</h2>
 
-I have been advertising for over 16 years, in careers in the political sector. Since I was 14 years old, involved in autonomous programming, at the age of 30 I decided to change areas effectively and my experiences make me the best software engineer that a company can add to the team with experience in managing teams and people, adaptable to the most diverse traditional and agile.
+I worked in advertising for over 16 years, primarily in the political sector. Since the age of 14, I have been independently involved in programming. At 30, I decided to transition into software engineering. My experiences make me the best software engineer a company can hire, with experience in team and people management, adaptable to both traditional and agile methodologies.
 
-<h2>SKILLS</h2>
+<h2>COMPETÊNCIAS</h2>
 
 <p>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/LINUX-E95420?style=flat-square&logo=linux&logoColor=white" /></a>
